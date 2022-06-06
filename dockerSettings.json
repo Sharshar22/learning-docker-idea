@@ -1,10 +1,10 @@
 [
-  "dev-frontend",
+  "devFD",
   [
-    4001
+    5001
   ],
-  "main-frontend",
+  "mainFD",
   [
-    4000
+    5000
   ]
 ]
